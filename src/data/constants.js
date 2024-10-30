@@ -72,6 +72,7 @@ export const skills = [
       },
     ],
   },
+  /*
   {
     title: "Backend",
     skills: [
@@ -232,6 +233,7 @@ export const skills = [
       },
     ],
   },
+  */
   {
     title: "Others",
     skills: [

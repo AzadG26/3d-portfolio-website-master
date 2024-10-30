@@ -358,7 +358,9 @@ export const experiences = [
     ],
     doc: "https://pbs.twimg.com/profile_images/1626177806525947906/EdVYW02A_400x400.jpg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
-  img: "https://pbs.twimg.com/profile_images/1626177806525947906/EdVYW02A_400x400.jpg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+  {
+    id: 4,
+    img: "https://pbs.twimg.com/profile_images/1626177806525947906/EdVYW02A_400x400.jpg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Web Designer",
     company: "RankrSEO",
     date: "Aug 2023 - Present",

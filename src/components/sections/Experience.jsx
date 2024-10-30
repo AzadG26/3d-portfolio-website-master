@@ -59,7 +59,7 @@ const Experience = () => {
             marginBottom: "40px",
           }}
         >
-          My work experience as an electronics engineer and working on different
+          My work experience as an SEO Executive and working on different
           companies and projects.
         </Desc>
 

@@ -422,7 +422,7 @@ export const education = [
     degree: "B.Sc, Electronic SCience",
   },
 ];
-/*
+
 export const projects = [
   {
     id: 11,
@@ -635,5 +635,3 @@ export const projects = [
     webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   },
 ];
-
-*/
